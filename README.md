@@ -14,7 +14,7 @@
 
 > I don't just ship code — I build systems that **work when it counts**, for the people who need it most.
 
-I'm a **B.Tech CS & AI student** at Newton School of Technology (2025 batch), building at the intersection of **AI safety, developer tooling, and underserved communities**. My current obsession: making AI verifiable, robust, and genuinely useful — not just impressive on a demo day.
+I'm a **B.Tech CS & AI student** at Newton School of Technology, building at the intersection of **AI safety, developer tooling, and underserved communities**. My current obsession: making AI verifiable, robust, and genuinely useful - not just impressive on a demo day.
 
 - 🌾 **AgriNexus** — Multimodal LLM platform for Indian farmers. Prompt-engineered for verifiability & failure mode analysis.
 - ⚖️ **Indian Legal Assistant** — RAG pipeline (Llama3 + ChromaDB) with intent classification & toxicity filtering.
@@ -70,7 +70,7 @@ Multimodal LLM platform for crop disease detection built for farmers with minima
 
 `Python` `FastAPI` `LLMs` `Prompt Engineering` `Multimodal AI`
 
-> 🔗 [View Project](https://github.com/yats0x7) · Pre-revenue
+> 🔗 [View Project](https://github.com/MANOSHRANJAN/agri-nexus-2026) 
 
 </td>
 <td width="50%" valign="top">
@@ -82,7 +82,7 @@ RAG pipeline using Llama3 + ChromaDB that retrieves and reasons over Indian lega
 
 `Python` `Llama3` `RAG` `ChromaDB` `FastAPI`
 
-> 🔗 [View Project](https://github.com/yats0x7)
+> 🔗 [View Project](https://github.com/yats0x7/Legal_Assistant)
 
 </td>
 </tr>
@@ -108,6 +108,8 @@ Full-stack QR-menu and management SaaS with Razorpay payment integration. Curren
 `Next.js` `Supabase` `PostgreSQL` `Razorpay`
 
 > 🔗 [View Project](https://github.com/yats0x7/Chef_portal_Dineo)
+> <br>
+> 🔗 [View Project](https://github.com/yats0x7/Dineo)
 
 </td>
 </tr>
