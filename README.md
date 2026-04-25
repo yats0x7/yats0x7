@@ -1,47 +1,195 @@
-<h1 align="center">Hi 👋, I'm Yatharth Katta</h1>
-<h3 align="center">Build. Compete. Contribute. Leave an impact.</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Dineo – Smart Restaurant Management System](https://github.com/yats0x7/Chef_portal_Dineo)
+<!-- DYNAMIC BANNER — Generate at: https://capsule-render.vercel.app -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yatharth%20Katta&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Builder%20%E2%80%A2%20Researcher%20%E2%80%A2%20Contributor&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-- 🌱 I’m currently learning **MERN Stack (MongoDB, Express, React, Node.js) , Data Structures & Algorithms (for competitive programming)**
+<!-- TYPING EFFECT — Powered by readme-typing-svg -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=CS+%26+AI+Engineer+%F0%9F%A4%96;Building+AI+for+Underserved+Communities+%F0%9F%8C%B1;Open+Source+Contributor+%7C+20%2B+Merged+PRs+%E2%9C%85;Scalable+Oversight+%26+AI+Safety+Researcher+%F0%9F%94%AC)](https://git.io/typing-svg)
 
-- 👯 I’m looking to collaborate on [Open Source (Frontend)](https://github.com/yats0x7/jenkins.io)
+</div>
 
-- 📫 How to reach me **kattayatharth@gmail.com**
+---
 
-- ⚡ Fun fact **📈 I’m obsessed with becoming top 1% in at least one domain.**
+## ⚡ The 30-Second Pitch
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yatharthkatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yatharthkatta" height="30" width="40" /></a>
-<a href="https://instagram.com/xyx.yatharth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xyx.yatharth" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yats007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yats007" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yats007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yats007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yats007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yats007" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/kattayatharth" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="yats007" height="30" width="40" /></a>
-</p>
+> I don't just ship code — I build systems that **work when it counts**, for the people who need it most.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+I'm a **B.Tech CS & AI student** at Newton School of Technology (2025 batch), building at the intersection of **AI safety, developer tooling, and underserved communities**. My current obsession: making AI verifiable, robust, and genuinely useful — not just impressive on a demo day.
 
-## 🧡 Open Source Journey
-
-Proud participant of **Hacktoberfest 2025** — contributing to meaningful projects and growing through collaboration.
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
-  <!-- Add your official Hacktoberfest badge below once earned -->
-
-  <img width="1199" height="375" alt="Hacktoberfest Badges" src="https://github.com/user-attachments/assets/68bcd3b4-70c6-4a56-9c05-6bcdde2049a0" />
+- 🌾 **AgriNexus** — Multimodal LLM platform for Indian farmers. Prompt-engineered for verifiability & failure mode analysis.
+- ⚖️ **Indian Legal Assistant** — RAG pipeline (Llama3 + ChromaDB) with intent classification & toxicity filtering.
+- 🔧 **Jenkins.io Contributor** — 6+ merged PRs; improving open-source developer experience at scale.
 
 
-  
-</p>
+---
 
-> Contributing. Learning. Shipping.
+## 🧠 Tech Stack
+
+<div align="center">
+
+### 🗣️ Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🏗️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🤖 AI / ML
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=for-the-badge&logo=databricks&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-E96228?style=for-the-badge&logo=xgboost&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10B981?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🗄️ Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 AgriNexus
+**The OS for Indian Agriculture**
+
+Multimodal LLM platform for crop disease detection built for farmers with minimal digital literacy. Key focus: **verifiable outputs** and **graceful failure handling** — because a wrong answer here means a lost harvest.
+
+`Python` `FastAPI` `LLMs` `Prompt Engineering` `Multimodal AI`
+
+> 🔗 [View Project](https://github.com/yats0x7) · Pre-revenue
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ Indian Legal Assistant
+**Making Law Accessible**
+
+RAG pipeline using Llama3 + ChromaDB that retrieves and reasons over Indian legal text. Features intent/sentiment classification and toxicity filtering — built with safety-first architecture from day one.
+
+`Python` `Llama3` `RAG` `ChromaDB` `FastAPI`
+
+> 🔗 [View Project](https://github.com/yats0x7)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 Jenkins.io Contributions
+**Open Source at Scale**
+
+Active contributor to Jenkins.io — 10+ PRs improving contributor spotlights and website UX. Part of the GSoC 2026 proposal track for "Retooling Jenkins.io Contributors-Spotlight."
+
+`Gatsby.js` `React` `Open Source` `Technical Writing`
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yats0x7&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+</td>
+<td width="50%" valign="top">
 
+### 🍽️ Dineo — Restaurant SaaS
+**QR-Based Smart POS**
+
+Full-stack QR-menu and management SaaS with Razorpay payment integration. Currently deployed and tested with real restaurant clients in New Delhi.
+
+`Next.js` `Supabase` `PostgreSQL` `Razorpay`
+
+> 🔗 [View Project](https://github.com/yats0x7/Chef_portal_Dineo)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=yats0x7&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yats0x7&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025_Contributor-FF6D00?style=for-the-badge&logo=hacktoberfest&logoColor=white)
+![Summer of Bitcoin](https://img.shields.io/badge/Summer_of_Bitcoin-2026-F7931A?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open_Source-20%2B_Merged_PRs-2DA44E?style=for-the-badge&logo=github&logoColor=white)
+
+
+</div>
+
+---
+
+## 🎯 Currently
+
+```python
+class Yatharth:
+    def __init__(self):
+        self.role        = "CS & AI Student @ Newton School of Technology"
+        self.location    = "Delhi-NCR"
+        self.obsession   = "Top 1% in at least one domain"
+
+    @property
+    def now(self):
+        return {
+            "building"    : "AgriNexus — AI for Indian farmers",
+            "researching" : "Scalable Oversight & AI Control",
+            "contributing": "Jenkins.io | GSoC 2026",
+            "learning"    : ["LLM Safety", "MERN Stack", "Competitive Programming"],
+        }
+
+    @property
+    def long_game(self):
+        return "Build verifiable, trustworthy AI for communities that can't afford it to fail."
+```
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yatharthkatta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatharthkatta)
+[![Email](https://img.shields.io/badge/Email-kattayatharth%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kattayatharth@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-yats007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yats007)
+[![Codeforces](https://img.shields.io/badge/Codeforces-yats007-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yats007)
+[![CodeChef](https://img.shields.io/badge/CodeChef-yats007-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/yats007)
+[![HackerRank](https://img.shields.io/badge/HackerRank-kattayatharth-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/kattayatharth)
+[![Instagram](https://img.shields.io/badge/Instagram-xyx.yatharth-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xyx.yatharth)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+**"The best time to build something that matters was yesterday. The second best time is right now."**
+
+![Profile Views](https://komarev.com/ghpvc/?username=yats0x7&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
