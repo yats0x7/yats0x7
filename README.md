@@ -149,7 +149,7 @@ class Yatharth:
         return {
             "building"    : "AgriNexus — AI for Indian farmers",
             "researching" : "Scalable Oversight & AI Control",
-            "contributing": "Jenkins.io | GSoC 2026",
+            "contributing": "Jenkins",
             "learning"    : ["LLM Safety", "MERN Stack", "Competitive Programming"],
         }
 
