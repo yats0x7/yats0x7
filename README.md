@@ -37,12 +37,6 @@ I'm a **B.Tech CS & AI student** at Newton School of Technology, building at the
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🤖 AI / ML
-![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=for-the-badge&logo=databricks&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-E96228?style=for-the-badge&logo=xgboost&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10B981?style=for-the-badge&logo=openai&logoColor=white)
-
 ### 🗄️ Databases & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -103,13 +97,9 @@ Active contributor to Jenkins.io — 10+ PRs improving contributor spotlights an
 ### 🍽️ Dineo — Restaurant SaaS
 **QR-Based Smart POS**
 
-Full-stack QR-menu and management SaaS with Razorpay payment integration. Currently deployed and tested with real restaurant clients in New Delhi.
+Full-stack QR-menu and management SaaS with Razorpay payment integration. Currently deployed and testing with real restaurants and cafes.
 
 `Next.js` `Supabase` `PostgreSQL` `Razorpay`
-
-> 🔗 [View Project](https://github.com/yats0x7/Chef_portal_Dineo)
-> <br>
-> 🔗 [View Project](https://github.com/yats0x7/Dineo)
 
 </td>
 </tr>
