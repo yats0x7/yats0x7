@@ -135,23 +135,16 @@ Full-stack QR-menu and management SaaS with Razorpay payment integration. Curren
 
 ---
 
-
-## Connect
-
+## Layer5 Badge
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yatharthkatta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatharthkatta)
-[![Email](https://img.shields.io/badge/Email-kattayatharth%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kattayatharth@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-yats007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yats007)
-[![Codeforces](https://img.shields.io/badge/Codeforces-yats007-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yats007)
-[![CodeChef](https://img.shields.io/badge/CodeChef-yats007-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/yats007)
-[![HackerRank](https://img.shields.io/badge/HackerRank-kattayatharth-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/kattayatharth)
-[![Instagram](https://img.shields.io/badge/Instagram-xyx.yatharth-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xyx.yatharth)
-
+<a href="https://cloud.layer5.io/user/007822cd-9032-453e-86ae-cdf08997ece7?tab=badges&badge=first-design">
+  <img align="center"
+    src="https://badges.layer5.io/assets/badges/first-design/first-design.png"
+    width="120"
+    alt="Design Pioneer"
+  />
+</a>
 </div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
@@ -163,12 +156,4 @@ Full-stack QR-menu and management SaaS with Razorpay payment integration. Curren
 </div>
 
 
-## Layer5 Badge
 
-<a href="https://cloud.layer5.io/user/007822cd-9032-453e-86ae-cdf08997ece7?tab=badges&badge=first-design">
-  <img align="center"
-    src="https://badges.layer5.io/assets/badges/first-design/first-design.png"
-    width="120"
-    alt="Design Pioneer"
-  />
-</a>
