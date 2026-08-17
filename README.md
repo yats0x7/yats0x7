@@ -185,3 +185,8 @@ class Yatharth:
 ![Profile Views](https://komarev.com/ghpvc/?username=yats0x7&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+<div>
+## 🏆 Meshery Badge
+
+[![Meshery Design Pioneer](BADGE_IMAGE_URL)](https://meshery.io/community/recognition/)
+</div>
