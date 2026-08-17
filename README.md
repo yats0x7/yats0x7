@@ -10,38 +10,38 @@
 
 ---
 
-## ⚡ The 30-Second Pitch
+## The 30-Second Pitch
 
 > I don't just ship code — I build systems that **work when it counts**, for the people who need it most.
 
 I'm a **B.Tech CS & AI student** at Newton School of Technology, building at the intersection of **AI safety, developer tooling, and underserved communities**. My current obsession: making AI verifiable, robust, and genuinely useful - not just impressive on a demo day.
 
-- 🌾 **AgriNexus** — Multimodal LLM platform for Indian farmers. Prompt-engineered for verifiability & failure mode analysis.
-- ⚖️ **Indian Legal Assistant** — RAG pipeline (Llama3 + ChromaDB) with intent classification & toxicity filtering.
-- 🔧 **Jenkins.io Contributor** — 6+ merged PRs; improving open-source developer experience at scale.
+-  **AgriNexus** — Multimodal LLM platform for Indian farmers. Prompt-engineered for verifiability & failure mode analysis.
+-  **Indian Legal Assistant** — RAG pipeline (Llama3 + ChromaDB) with intent classification & toxicity filtering.
+-  **Jenkins.io Contributor** — 6+ merged PRs; improving open-source developer experience at scale.
 
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🗣️ Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🏗️ Frameworks & Libraries
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🗄️ Databases & Infrastructure
+### Databases & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -51,39 +51,39 @@ I'm a **B.Tech CS & AI student** at Newton School of Technology, building at the
 
 ---
 
-## 🚀 Featured Work
+## Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 AgriNexus
+### AgriNexus
 **The OS for Indian Agriculture**
 
 Multimodal LLM platform for crop disease detection built for farmers with minimal digital literacy. Key focus: **verifiable outputs** and **graceful failure handling** — because a wrong answer here means a lost harvest.
 
 `Python` `FastAPI` `LLMs` `Prompt Engineering` `Multimodal AI`
 
-> 🔗 [View Project](https://github.com/MANOSHRANJAN/agri-nexus-2026) 
+> [View Project](https://github.com/MANOSHRANJAN/agri-nexus-2026) 
 
 </td>
 <td width="50%" valign="top">
 
-### ⚖️ Indian Legal Assistant
+### Indian Legal Assistant
 **Making Law Accessible**
 
 RAG pipeline using Llama3 + ChromaDB that retrieves and reasons over Indian legal text. Features intent/sentiment classification and toxicity filtering — built with safety-first architecture from day one.
 
 `Python` `Llama3` `RAG` `ChromaDB` `FastAPI`
 
-> 🔗 [View Project](https://github.com/yats0x7/Legal_Assistant)
+>  [View Project](https://github.com/yats0x7/Legal_Assistant)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔧 Jenkins.io Contributions
+### Jenkins.io Contributions
 **Open Source at Scale**
 
 Active contributor to Jenkins.io — 10+ PRs improving contributor spotlights and website UX. Part of the GSoC 2026 proposal track for "Retooling Jenkins.io Contributors-Spotlight."
@@ -94,7 +94,7 @@ Active contributor to Jenkins.io — 10+ PRs improving contributor spotlights an
 </td>
 <td width="50%" valign="top">
 
-### 🍽️ Dineo — Restaurant SaaS
+### Dineo — Restaurant SaaS
 **QR-Based Smart POS**
 
 Full-stack QR-menu and management SaaS with Razorpay payment integration. Currently deployed and testing with real restaurants and cafes.
@@ -107,7 +107,7 @@ Full-stack QR-menu and management SaaS with Razorpay payment integration. Curren
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -122,7 +122,7 @@ Full-stack QR-menu and management SaaS with Razorpay payment integration. Curren
 
 ---
 
-## 🏆 Achievements & Recognition
+## Achievements & Recognition
 
 <div align="center">
 
@@ -135,32 +135,8 @@ Full-stack QR-menu and management SaaS with Razorpay payment integration. Curren
 
 ---
 
-## 🎯 Currently
 
-```python
-class Yatharth:
-    def __init__(self):
-        self.role        = "CS & AI Student @ Newton School of Technology"
-        self.location    = "Delhi-NCR"
-        self.obsession   = "Top 1% in at least one domain"
-
-    @property
-    def now(self):
-        return {
-            "building"    : "AgriNexus — AI for Indian farmers",
-            "researching" : "Scalable Oversight & AI Control",
-            "contributing": "Jenkins",
-            "learning"    : ["LLM Safety", "MERN Stack", "Competitive Programming"],
-        }
-
-    @property
-    def long_game(self):
-        return "Build verifiable, trustworthy AI for communities that can't afford it to fail."
-```
-
----
-
-## 🤝 Connect
+## Connect
 
 <div align="center">
 
@@ -185,8 +161,14 @@ class Yatharth:
 ![Profile Views](https://komarev.com/ghpvc/?username=yats0x7&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-<div>
-## 🏆 Meshery Badge
 
-[![Meshery Design Pioneer](BADGE_IMAGE_URL)](https://meshery.io/community/recognition/)
-</div>
+
+## Layer5 Badge
+
+<a href="https://cloud.layer5.io/user/007822cd-9032-453e-86ae-cdf08997ece7?tab=badges&badge=first-design">
+  <img align="center"
+    src="https://badges.layer5.io/assets/badges/first-design/first-design.png"
+    width="120"
+    alt="Design Pioneer"
+  />
+</a>
